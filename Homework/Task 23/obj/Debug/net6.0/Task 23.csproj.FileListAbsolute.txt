@@ -1,0 +1,16 @@
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\bin\Debug\net6.0\Task 23.exe
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\bin\Debug\net6.0\Task 23.deps.json
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\bin\Debug\net6.0\Task 23.runtimeconfig.json
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\bin\Debug\net6.0\Task 23.dll
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\bin\Debug\net6.0\ref\Task 23.dll
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\bin\Debug\net6.0\Task 23.pdb
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.GlobalUsings.g.cs
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.csproj.AssemblyReference.cache
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.AssemblyInfoInputs.cache
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.AssemblyInfo.cs
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.csproj.CoreCompileInputs.cache
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.dll
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\ref\Task 23.dll
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.pdb
+C:\Users\qwer\Desktop\C#\Seminar_3C#\Homework\Task 23\obj\Debug\net6.0\Task 23.genruntimeconfig.cache
