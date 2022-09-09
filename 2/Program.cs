@@ -14,6 +14,6 @@ System.Console.WriteLine("Возможные координаты точек x <
 else if (n == 4){ 
 System.Console.WriteLine("Возможные координаты точек x > 0 && y < 0");   
 }
-else if (n >= 5){ 
+else{ 
 System.Console.WriteLine("Введена неверная четверть");   
 }
