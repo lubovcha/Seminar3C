@@ -38,3 +38,19 @@ default: /* аналог else */
      System.Console.WriteLine("Введена неверная четверть");
      break;  
 }
+
+/*if (quarter == 1){
+    System.Console.WriteLine("Возможные координаты точек x > 0 && y >0");
+}
+else if (quarter == 2){
+    System.Console.WriteLine("Возможные координаты точек x < 0 && y > 0");
+}    
+else if (quarter == 3){
+    System.Console.WriteLine("Возможные координаты точек x < 0 && y < 0");;
+} 
+else if (quarter == 4){
+    System.Console.WriteLine("Возможные координаты точек x > 0 && y < 0");
+} 
+else{ 
+System.Console.WriteLine("Введена неверная четверть");   
+} */
